@@ -45,6 +45,12 @@
 </details>
 
 
+## howto
+
+```
+  pip3 install files-organizer
+  python3 setup.py install
+```
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
